@@ -37335,8 +37335,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Francesco\Desktop\Boolean\Lezione-76_15-02-22_AUTENTICAZIONE\laravel-auth\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Francesco\Desktop\Boolean\Lezione-76_15-02-22_AUTENTICAZIONE\laravel-auth\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Francesco\Desktop\Boolean\Lezione-78_17-02-22_RELAZIONI-ONE-TO-MANY\laravel-one-to-many\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Francesco\Desktop\Boolean\Lezione-78_17-02-22_RELAZIONI-ONE-TO-MANY\laravel-one-to-many\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
